@@ -1,2 +1,2 @@
 # samplegits
-For S4 MCA lab sessions
+This is for S4 MCA lab sessions
